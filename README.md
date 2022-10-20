@@ -7,10 +7,10 @@ de un teatro genérico para la venta de boletos y obtener un reporte anual o men
 - Daniel García Cetina
 - Miguel Ángel Castillo Sánchez
 - Endrick Alfredo Pool Flores
--
+- Jean Carlos Buenfil Aguilar
 
 ### Diagrama UML de las clases
-
+    Link.Diagramas
 
 ### Lenguaje de Programación:
 Java
